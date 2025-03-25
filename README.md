@@ -1,6 +1,6 @@
 # Store Product Listing React App - Project Overview
 
-<h3>Visit: https://store-product-listing-react-app.netlify.app/</h3>
+<h3>Visit: https://productlistingapp.vercel.app//</h3>
 <img alt="alt_text" src="./shop.gif"/>
 
 ## Description:
